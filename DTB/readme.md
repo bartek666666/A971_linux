@@ -9,3 +9,6 @@ todo:
  - lcd screen
  - touch
  - bluetooth
+ - camera
+ - gps
+ - gypo
