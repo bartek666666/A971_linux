@@ -8,3 +8,4 @@ working:
 todo:
  - lcd screen
  - touch
+ - bluetooth
